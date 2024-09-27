@@ -1,0 +1,1 @@
+O jogo é no estilo Space Invaders clássico. As setas do teclado controlam a nave(esquerda-direita), tecla espaço atira. Se o inimigo chegar na altura da nave o jogador perde. Arquivo de iniciar o jogo é run_game.py
